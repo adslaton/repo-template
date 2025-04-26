@@ -1,4 +1,4 @@
-# Template Repo
+# Repo Template
 
 Creates the ideal folder structure
 
@@ -23,7 +23,6 @@ your-project/
 │    └── ...test
 │
 ├── README.md               # Project overview
-├── requirements.txt        # Python project dependencies (if Python)
 ├── .gitignore              # Ignore temp files, API keys, local data
 └── notes/                  # (optional) architecture sketches, helper docs
      └── design.md
